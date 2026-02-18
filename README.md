@@ -1,4 +1,5 @@
-![Capa da Auditoria](img/img capa TatOcas.jpg)
+![Capa da Auditoria](img/img_capa_TatOcas.jpg)
+
 # Auditoria de Cibersegurança e Resiliência Operacional
 ## Caso Prático: Tática Ocasional, Lda.
 
