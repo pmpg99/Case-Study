@@ -24,4 +24,4 @@ A auditoria foi estruturada com base nas melhores práticas do **Certified Ethic
 * Matriz de Priorização de Melhorias Técnicas.
 
 ---
-**Nota:** Todos os dados sensíveis foram anonimizados para efeitos de portefólio. Este projeto demonstra a minha capacidade de unir a experiência tática das forças de segurança com a competência técnica em Ethical Hacking.
+**Nota:** Todos os dados sensíveis foram anonimizados para efeitos de portefólio. 
