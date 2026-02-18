@@ -8,15 +8,15 @@ O objetivo foi realizar um diagnóstico completo à infraestrutura digital da em
 
 ### 🔍 Metodologia Aplicada
 A auditoria foi estruturada com base nas melhores práticas do **Certified Ethical Hacker (CEH)**, focando-se em:
-1. [cite_start]**Inventário de Ativos:** Mapeamento de hardware (Macs, PCs, Mobile) e software de gestão[cite: 5, 7, 8, 9, 10].
-2. [cite_start]**Avaliação de Perímetro:** Análise de redes Wi-Fi e configurações de acesso remoto[cite: 17, 19, 21].
-3. [cite_start]**Gestão de Identidades:** Verificação de autenticação multifator (MFA) e políticas de acesso[cite: 25, 28, 30].
-4. [cite_start]**Proteção de Dados:** Análise do fluxo de documentos sensíveis (RGPD) e armazenamento em Cloud/Físico[cite: 32, 34, 35, 36, 38].
+1. **Inventário de Ativos:** Mapeamento de hardware (Macs, PCs, Mobile) e software de gestão.
+2. **Avaliação de Perímetro:** Análise de redes Wi-Fi e configurações de acesso remoto.
+3. **Gestão de Identidades:** Verificação de autenticação multifator (MFA) e políticas de acesso.
+4. **Proteção de Dados:** Análise do fluxo de documentos sensíveis (RGPD) e armazenamento em Cloud/Físico.
 
 ### 💡 Principais Desafios e Soluções
-* [cite_start]**BYOD (Bring Your Own Device):** Identificação de riscos em dispositivos pessoais com acessos corporativos cruzados[cite: 11, 12].
-* [cite_start]**Fluxo de Informação:** Transição do envio de documentos via WhatsApp para métodos de partilha segura[cite: 37, 38].
-* [cite_start]**Resiliência:** Proposta de implementação de um sistema NAS para backup local híbrido, mitigando a dependência exclusiva da Cloud[cite: 51, 52, 54].
+* **BYOD (Bring Your Own Device):** Identificação de riscos em dispositivos pessoais com acessos corporativos cruzados.
+* **Fluxo de Informação:** Transição do envio de documentos via WhatsApp para métodos de partilha segura.
+* **Resiliência:** Proposta de implementação de um sistema NAS para backup local híbrido, mitigando a dependência exclusiva da Cloud.
 
 ### 🛠️ Entregáveis
 * Relatório de Diagnóstico de Segurança.
