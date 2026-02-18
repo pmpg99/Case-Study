@@ -29,6 +29,6 @@ A auditoria foi estruturada com base nas melhores práticas do **Certified Ethic
 **Nota:** Todos os dados sensíveis foram anonimizados para efeitos de portefólio. 
 
 ### 📂 Documentação e Ficheiros
-* [**Auditoria de Segurança Inicial**](auditoria/auditoria_infosec.pdf): Levantamento de hardware e rede.
-* [**Plano de Mitigação de Risco**](relatorios/Cibersegurança_Diagnóstico_e_Ação.pdf): Diagnóstico e ações recomendadas.
-* [**Análise de Risco de Faturação**](relatorios/Risco_Faturação_E_Plano_De_Melhorias.pdf): Avaliação focada em plataformas críticas.
+* [**Auditoria de Segurança Inicial**](Auditoria/auditoria_infosec.pdf): Levantamento de hardware e rede.
+* [**Plano de Mitigação de Risco**](Relatorios/Cibersegurança_Diagnóstico_e_Ação.pdf): Diagnóstico e ações recomendadas.
+* [**Análise de Risco de Faturação**](Relatorios/Risco_Faturação_E_Plano_De_Melhorias.pdf): Avaliação focada em plataformas críticas.
